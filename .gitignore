@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+.vscode/
+# input and output tables
+*.xlsx
+DEG*.txt
+DEG*
+DEQ_*
+list.txt
